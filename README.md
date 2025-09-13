@@ -7,7 +7,7 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/ваш-логин/bing-daily-wallpaper.git
+   git clone https://github.com/kernelpanicattac/hyprpaper-bingwallpaper.git
    cd bing-daily-wallpaper
    ```
 
