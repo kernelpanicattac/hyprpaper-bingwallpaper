@@ -1,5 +1,3 @@
-Вот пример README.md для вашего репозитория, чисто и по делу:
-
 ````markdown
 # Bing Daily Wallpaper for Hyprland
 
